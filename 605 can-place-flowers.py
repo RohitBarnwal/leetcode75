@@ -1,3 +1,5 @@
+"""https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75"""
+
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         i=0
